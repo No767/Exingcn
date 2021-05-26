@@ -9,4 +9,4 @@
 
 <div align=center>
 Exingcn.com's main website
-[Blog here](http://blog.exingcn.com)
+Blog: https://blog.exingcn.com
