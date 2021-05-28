@@ -9,7 +9,7 @@
 <div align=center>
 Exingcn.com's main website
 
-  <b>  
+  <br>  
 Blog: https://blog.exingcn.com
 
 
