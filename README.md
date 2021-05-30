@@ -10,5 +10,5 @@
 Exingcn.com's main website
 <br>
 
-[Blog here](https://blog.exingcn.com)
+Blog: https://blog.exingcn.com
 
