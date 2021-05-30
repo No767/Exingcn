@@ -10,6 +10,5 @@
 Exingcn.com's main website
 
 
-Blog: https://blog.exingcn.com
-
+[Blog here](https://blog.exingcn.com)
 
