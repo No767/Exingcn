@@ -10,3 +10,9 @@
 
 # Jetbrains IDE Temp Files
 .idea
+
+# Visual Studio 2019 Temp files
+.sudo 
+.config
+*web.config
+*settings.json
