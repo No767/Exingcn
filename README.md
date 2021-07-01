@@ -7,9 +7,13 @@
 <div align=center>
 Source Code for Exingcn
 
+<div align=left>
+
 # License
 This repo is licensed under the [GPL-3.0](https://github.com/No767/Exingcn/blob/master/LICENSE) License and all other works are all rights reserved
 
+# Contributing 
+See [Contributing](https://github.com/No767/Exingcn/blob/master/CONTRIBUTING.md)
 # Building
 
 Via [Yarn](https://yarnpkg.com/)
